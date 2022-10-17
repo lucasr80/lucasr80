@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/lucasr80/f58b3a5dca3e34015c0dd2327073ab1d/raw/86320533fc4d1484eab66a1ddd46a1bb2609d1a5/githubcard.svg"/>
 
-<!--
-**lucasr80/lucasr80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hi, I'm Lucas Ribeiro. Nice to meet you. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/></h1>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasr80&color=blue" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I'm a full stack developer and I'm passionate about creating functional applications.*
+
+🔥I'm a junior full stack developer.
+
+🔭 I'm currently working on Gsystem Informática.
+
+🌱 I'm currently learning JavaScript and PHP.
